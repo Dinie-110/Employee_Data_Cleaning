@@ -1,7 +1,7 @@
 # Employee Data Cleaning and Analysis (Python, SQL, Excel)
 This project demonstrates an end-to-end data analysis workflow involving data cleaning, transformation, storage, and analysis using Python, SQL, and Excel. The objective is to convert raw employee data into a structured, analysis-ready format and generate insights through database queries and spreadsheet analysis.
 
-Project Structure (Initial Setup)
+##Project Structure (Initial Setup)
 
 ```
 employee-data-cleaning/
@@ -12,8 +12,6 @@ employee-data-cleaning/
 └── README.md
 ```
 
----
-
 ### Installation
 
 Install required dependency:
@@ -21,8 +19,6 @@ Install required dependency:
 ```bash
 pip install pandas
 ```
-
----
 
 ### Running the Project
 
@@ -50,8 +46,6 @@ Export the data and analysis results to Excel:
 python load_excel.py
 ```
 
----
-
 ### Project Structure After Execution
 
 ```
@@ -74,8 +68,6 @@ employee-data-cleaning/
 │
 └── README.md
 ```
-
----
 
 ### Running SQL Queries
 
