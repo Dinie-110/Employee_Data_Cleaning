@@ -2,17 +2,11 @@
 This project demonstrates an end-to-end data analysis workflow involving data cleaning, transformation, storage, and analysis using Python, SQL, and Excel. The objective is to convert raw employee data into a structured, analysis-ready format and generate insights through database queries and spreadsheet analysis.
 
 starting with
-
 employee-data-cleaning/
-
 │
-
 ├── data/                raw_employee.csv
-
 ├── python/              clean_data.py and load_sql.py and load_excel.py
-
 ├── sql/                 create_table.sql and analysis_queries.sql
-
 └── README.md
 
 
